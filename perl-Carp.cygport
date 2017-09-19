@@ -1,8 +1,8 @@
-CPAN_AUTHOR=zefram
+CPAN_AUTHOR=rjbs
 inherit perl
 
 NAME="perl-Carp"
-VERSION=1.3301
+VERSION=1.38
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl alternative warn/die module"
